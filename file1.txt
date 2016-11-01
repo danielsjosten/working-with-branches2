@@ -1,0 +1,1 @@
+Line 1 - Adding this line from the master branch to make a conflict
